@@ -6,6 +6,7 @@
 body{
     background-color: #f6f8f9;
 }
+
 /*HEADER*/
 header {
     background-color: #ffffff;
@@ -19,3 +20,38 @@ header {
     vertical-align: middle;
 }
 /*F.HEADER*/
+
+/*MAIN*/
+/*BUTTONS_CONTEINER*/
+.buttons_conteiner{
+    width: 900px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    margin-top: 50px;
+    padding: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.buttons a{
+    text-decoration: none;
+}
+#button1{
+    background-color: #47adf1;
+    color: #ffffff;
+    padding: 10px 5px;
+    border: 2px solid;
+    border-color: #47adf1;
+    border-radius: 5px;
+
+}
+#button2 {
+    background-color: #ffffff;
+    border: 2px solid;
+    color: #c5cbd0;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+/*F.BUTTONS_CONTEINER*/
+
+
+/*F.MAIN*/
